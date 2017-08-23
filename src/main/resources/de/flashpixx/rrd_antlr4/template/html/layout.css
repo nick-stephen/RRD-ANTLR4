@@ -140,7 +140,7 @@ li p.first {
     display: inline-block;
 }
 li {
-    margin: 0;
+    margin: 2; padding: 3px;
 }
 ul,
 ol {
