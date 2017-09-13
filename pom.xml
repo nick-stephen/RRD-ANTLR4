@@ -3,7 +3,7 @@
 
     <groupId>com.vmware.espiranto</groupId>
     <artifactId>rrd-antlr4</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <packaging>maven-plugin</packaging>
 
     <!-- project meta information -->
